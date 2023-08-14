@@ -1,4 +1,0 @@
-import panda as pd
-import numpy as np
-import qandl as qd
-# import the stock data from quantdl
